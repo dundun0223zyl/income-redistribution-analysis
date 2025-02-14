@@ -1,6 +1,6 @@
 # Income Redistribution Analysis
 
-This project analyzes preferences for income redistribution using machine learning models, including **Logistic Regression, SVM, Naïve Bayes, and Random Forest**. The analysis evaluates both **predictive performance and interpretability**, highlighting challenges with class imbalance and model optimization.
+This project analyzes preferences for income redistribution using machine learning models, including **Logistic Regression, KNN, SVM, Naïve Bayes, and Random Forest**. The analysis evaluates both **predictive performance and interpretability**, highlighting challenges with class imbalance and model optimization.
 
 ## 📂 Repository Contents
 - **full_analysis.ipynb** → The main notebook containing data preprocessing, model training, evaluation, and interpretation.
